@@ -58,8 +58,6 @@ Porque o termo `n²` domina todos os outros no longo prazo.
 
 ## 📈 Gráfico de Crescimento das Complexidades
 
-![Gráfico Big O](big_o_chart_full.png)
-
 | Notação      | Nome técnico       | Exemplos típicos                          |
 |--------------|--------------------|-------------------------------------------|
 | O(1)         | Constante          | Acesso direto a vetor ou hash             |
